@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    color: orange;
+}
+video{
+    margin-left: 393px;
+    width:300px ;
+    height:300px ;
+
+}
+
+h2{
+    border-bottom: 1px solid orange;
+}
+p{
+    border-left: 5px solid orange;
+    width: 50%;
+}
+img{
+    margin-left: 393px;
+    width:300px ;
+    height:300px ;
+
+}
+button{
+    color: white;
+    background-color: orange;
+}
