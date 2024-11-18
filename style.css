@@ -12,9 +12,10 @@ video{
 h2{
     border-bottom: 1px solid orange;
 }
-p{
-    border-left: 5px solid orange;
+.borderLeftOrange{
+    border-left: 15px solid orange;
     width: 50%;
+    
 }
 img{
     margin-left: 393px;
@@ -25,4 +26,7 @@ img{
 button{
     color: white;
     background-color: orange;
+}
+#styleP{
+    margin-left: 20px;
 }
